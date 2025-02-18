@@ -1,0 +1,1 @@
+# full-stack-stock-trading-platform
